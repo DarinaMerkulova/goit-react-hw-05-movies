@@ -1,0 +1,9 @@
+:root {
+    --background-color: rgb(29, 29, 39);
+    --text-color:rgb(238, 234, 234);
+    --green-color:rgb(26, 127, 141);
+    --green-shadow:0 0 20px rgb(14, 82, 91);
+    --transition: background-color 0.3s ease, box-shadow 0.3s ease;
+   
+    
+}
